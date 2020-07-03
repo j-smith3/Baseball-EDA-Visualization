@@ -1,4 +1,4 @@
-# Baseball-EDA-Visualization
+# Baseball Exploratory Data Analysis with Tableau 
 
 ## Data Analysis Project - Udacity Data Analyst Nanodegree
 
